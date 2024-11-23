@@ -22,9 +22,3 @@ This library help to render image/icon defined in native
   pod 'RNImageHelper', :path => '../node_modules/react-native-image-helper/ios'
 
 ```
-
-
-## 📜 License
-This library is provided under the Apache 2 License.
-
-RNImageHelper @ [prscX](https://github.com/prscX)
